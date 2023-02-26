@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I am Dieudonne 👋
+
+I am a Graduate Student in Scientific Computing and Information Mathematics at the University of Strasbourg in France. I am passionate about applied mathematics and computer science.
 
 <!--
 **DonnescoPablo/DonnescoPablo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
